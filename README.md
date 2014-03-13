@@ -12,5 +12,5 @@ Convert SLO County roads to shapefile for use by SO CAD.
 **7.**	Set the initial input to the `slo_co_sheriff_roads` feature class that was produced from the Tritech Model flayer and resides in the Model.gdb.  
 **8.**	Run the model, this one takes a bit longer so be patient.  
 **9.**	Your shapefile will be found as `slo_co_sheriff_roads_mm_dd_yyyy.shp` in the Results folder.    
-**10.**	Send this file to the SO and you are DONE.  
+**10.**	Send this file to the S.O. and you are DONE.  
 
