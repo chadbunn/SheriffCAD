@@ -1,7 +1,7 @@
 SheriffCAD
 ==========
 
-Convert SLO County roads to shapefile for use by SO CAD.
+###**Convert SLO County roads to shapefile for use by SO CAD.**
 
 **1.**	Get newest cut of county roads.  
 **2.**	Rename it `SLOCO_SDE_ROADS_ALL` and replace the current feature class of the same name in the Model.gdb in the project folder.  
